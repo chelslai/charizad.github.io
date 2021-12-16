@@ -1,0 +1,88 @@
+body {
+  background-color: #ff5b0f;
+}
+
+.title-container{
+  height: 40vh;
+
+  background-color: rgb(230, 230, 230);
+}
+
+.title-hello{
+  font-size: 10rem;
+  font-weight: 700;
+  font-family: 'Lato', sans-serif;
+}
+
+.title-name{
+  font-size: 4rem;
+  font-weight: 500;
+  font-family: 'Lato', sans-serif;
+
+  position: relative;
+  top: -2.5rem;
+
+
+  color: rgb(230, 230, 230);
+  background-color: #ff5b0f;
+}
+
+.title-tag{
+  font-size: 2rem;
+  font-weight: 500;
+  font-family: 'Lato', sans-serif;
+
+  position: relative;
+  top: -2rem;
+
+}
+
+.about-me-container{
+  width: 80vw;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  margin-left: 10vw;
+
+  background-color: #ff5b0f;
+
+}
+
+.about-me-img{
+  height: 20vw;
+  width: 20vw;
+
+  border-radius: 100%;
+  box-shadow: 10px 5px 10px black;
+}
+
+.about-me-text{
+  font-size: 1.5rem;
+  font-family: 'Lato', sans-serif;
+
+  padding-left: 5% !important;
+  padding-right: 5%;
+
+  color: rgb(230, 230, 230);
+}
+
+.contact-me-container{
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: 'Lato', sans-serif;
+}
+
+.linkedin-icon{
+  height: 10vw;
+  width: 10vw;
+
+}
+
+.type-img{
+  height: 25vw;
+  width: 50vw;
+}
